@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructureAlgorithm/Data Structure Algorithm.iml" filepath="$PROJECT_DIR$/DataStructureAlgorithm/Data Structure Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureAlgorithm/DataStructureAlgorithm.iml" filepath="$PROJECT_DIR$/DataStructureAlgorithm/DataStructureAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructureAlgorithm/PrincetonAlgorithm/PrincetonAlgorithm.iml" filepath="$PROJECT_DIR$/DataStructureAlgorithm/PrincetonAlgorithm/PrincetonAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concurrency.iml" filepath="$PROJECT_DIR$/.idea/modules/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concurrency_main.iml" filepath="$PROJECT_DIR$/.idea/modules/concurrency_main.iml" group="concurrency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/concurrency_test.iml" filepath="$PROJECT_DIR$/.idea/modules/concurrency_test.iml" group="concurrency" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradletest.iml" filepath="$PROJECT_DIR$/.idea/modules/gradletest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradletest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradletest_main.iml" group="gradletest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradletest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradletest_test.iml" group="gradletest" />
+      <module fileurl="file://$PROJECT_DIR$/testapi/testapi.iml" filepath="$PROJECT_DIR$/testapi/testapi.iml" />
+    </modules>
+  </component>
+</project>
